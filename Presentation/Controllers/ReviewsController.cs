@@ -4,7 +4,7 @@ using FoodApplication.Application.Features.Reviews.Commands;
 using FoodApplication.Application.Features.Reviews.Queries;
 using FoodApplication.Domain.Data.Enums;
 using FoodApplication.Presentation.ViewModel;
-using FoodApplication.Shared.ViewModel.Review;
+using FoodApplication.Presentation.ViewModel.Review;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 

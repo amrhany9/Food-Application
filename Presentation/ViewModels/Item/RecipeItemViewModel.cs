@@ -1,4 +1,4 @@
-﻿namespace FoodApplication.Shared.ViewModel.Item
+﻿namespace FoodApplication.Presentation.ViewModel.Item
 {
     public class RecipeItemViewModel
     {

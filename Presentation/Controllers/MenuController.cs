@@ -4,7 +4,7 @@ using FoodApplication.Application.Features.Menus.Commands;
 using FoodApplication.Application.Features.Menus.Queries;
 using FoodApplication.Domain.Data.Enums;
 using FoodApplication.Presentation.ViewModel;
-using FoodApplication.Shared.ViewModel.Menu;
+using FoodApplication.Presentation.ViewModel.Menu;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 

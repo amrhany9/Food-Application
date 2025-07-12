@@ -1,6 +1,6 @@
 ﻿using FoodApplication.Application.DTOs.Menu;
 
-namespace FoodApplication.Shared.ViewModel.Menu
+namespace FoodApplication.Presentation.ViewModel.Menu
 {
     public class MenuDetailViewModel
     {

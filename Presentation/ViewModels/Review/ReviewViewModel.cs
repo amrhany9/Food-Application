@@ -1,4 +1,4 @@
-﻿namespace FoodApplication.Shared.ViewModel.Review
+﻿namespace FoodApplication.Presentation.ViewModel.Review
 {
     public class ReviewViewModel
     {

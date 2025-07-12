@@ -1,4 +1,4 @@
-﻿namespace FoodApplication.Shared.ViewModel.Menu
+﻿namespace FoodApplication.Presentation.ViewModel.Menu
 {
     public class ItemForMenuViewModel
     {

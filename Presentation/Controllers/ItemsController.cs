@@ -5,7 +5,7 @@ using FoodApplication.Application.Features.Items.Commands;
 using FoodApplication.Application.Features.Items.Queries;
 using FoodApplication.Domain.Data.Enums;
 using FoodApplication.Presentation.ViewModel;
-using FoodApplication.Shared.ViewModel.Item;
+using FoodApplication.Presentation.ViewModel.Item;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
